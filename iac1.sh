@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Tarefa DIO.me sobre Linux"
+
 mkdir /publico
 mkdir /adm
 mkdir /ven
